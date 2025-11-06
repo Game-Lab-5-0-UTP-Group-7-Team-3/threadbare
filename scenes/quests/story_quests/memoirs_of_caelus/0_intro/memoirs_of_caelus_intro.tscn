@@ -1,6 +1,6 @@
 [gd_scene load_steps=11 format=4 uid="uid://cenw06rwjlx7q"]
 
-[ext_resource type="TileSet" uid="uid://07fq3rspk8ia" path="res://scenes/tileset.tres" id="1_lasux"]
+[ext_resource type="TileSet" uid="uid://bk71h7v8o4bs4" path="res://scenes/quests/story_quests/memoirs_of_caelus/Memoirs_of_Caelus_tileset.tres" id="1_lasux"]
 [ext_resource type="Texture2D" uid="uid://drdkf5ic1ymbq" path="res://scenes/quests/story_quests/memoirs_of_caelus/0_intro/intro_components/memoirs_of_caelus_intro_image.png" id="2_wtapu"]
 [ext_resource type="SpriteFrames" uid="uid://bqikydog4ynkm" path="res://scenes/quests/story_quests/memoirs_of_caelus/player_components/memoirs_of_caelus_player.tres" id="3_l8otm"]
 [ext_resource type="Script" uid="uid://x1mxt6bmei2o" path="res://scenes/ui_elements/cinematic/cinematic.gd" id="4_w5col"]
