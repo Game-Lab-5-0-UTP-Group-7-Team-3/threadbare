@@ -310,13 +310,19 @@ scale = Vector2(3.3235593, 2.8396754)
 texture = ExtResource("18_uomke")
 
 [node name="Rock52" type="Sprite2D" parent="."]
-position = Vector2(6604.2583, 1388.0647)
+position = Vector2(6598, 1405)
 rotation = 0.13263802
 scale = Vector2(3.3235593, 2.9006908)
 texture = ExtResource("18_uomke")
 
 [node name="Rock49" type="Sprite2D" parent="."]
 position = Vector2(8085.0005, 1960.9999)
+rotation = 0.13263802
+scale = Vector2(3.3235593, 2.8396754)
+texture = ExtResource("18_uomke")
+
+[node name="Rock53" type="Sprite2D" parent="."]
+position = Vector2(8839, 1392)
 rotation = 0.13263802
 scale = Vector2(3.3235593, 2.8396754)
 texture = ExtResource("18_uomke")
@@ -856,7 +862,7 @@ scale = Vector2(1.2198, 1.16248)
 sprite_frames = ExtResource("4_537ft")
 
 [node name="Tree red 50" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(4929.9995, 812.9995)
+position = Vector2(4975, 794.9999)
 rotation = 0.13263802
 scale = Vector2(1.2198, 1.16248)
 sprite_frames = ExtResource("4_537ft")
@@ -870,7 +876,7 @@ position = Vector2(6484.999, 2311)
 scale = Vector2(1.4879122, 1.3513597)
 
 [node name="Tree green93" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(7268.999, 1248)
+position = Vector2(7279.9995, 1276)
 scale = Vector2(1.4879122, 1.3513597)
 
 [node name="Tree green49" parent="." instance=ExtResource("3_5qi8a")]
@@ -878,7 +884,7 @@ position = Vector2(7156.9995, 2246)
 scale = Vector2(1.4879122, 1.3513597)
 
 [node name="Tree green95" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(6540.9995, 1420)
+position = Vector2(6554.9995, 1427)
 scale = Vector2(1.4879122, 1.3513597)
 
 [node name="Tree green50" parent="." instance=ExtResource("3_5qi8a")]
@@ -902,15 +908,15 @@ position = Vector2(5898, 1156)
 scale = Vector2(1.4879122, 1.3513597)
 
 [node name="Tree green75" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(8921.999, 924)
+position = Vector2(8940.999, 972.00006)
 scale = Vector2(1.4879122, 1.3513597)
 
 [node name="Tree green72" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(8360, 2097)
+position = Vector2(8158.999, 2200)
 scale = Vector2(1.4879122, 1.3513597)
 
 [node name="Tree green73" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(8664, 921)
+position = Vector2(8737, 967)
 scale = Vector2(1.4879122, 1.3513597)
 
 [node name="Tree green69" parent="." instance=ExtResource("3_5qi8a")]
@@ -963,7 +969,7 @@ scale = Vector2(1.2198, 1.16248)
 sprite_frames = ExtResource("4_537ft")
 
 [node name="Tree red 40" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(8637, 1762.9999)
+position = Vector2(8667.999, 1816.9998)
 rotation = 0.13263802
 scale = Vector2(1.2198, 1.16248)
 sprite_frames = ExtResource("4_537ft")
@@ -1001,13 +1007,13 @@ scale = Vector2(1.2198, 1.16248)
 sprite_frames = ExtResource("4_537ft")
 
 [node name="Tree red 49" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(6339.9995, 1499.9999)
+position = Vector2(6312.9995, 1489.9999)
 rotation = 0.13263802
 scale = Vector2(1.2198, 1.16248)
 sprite_frames = ExtResource("4_537ft")
 
 [node name="Tree red 38" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(8520, 854.2928)
+position = Vector2(8597.999, 861.9999)
 rotation = 0.13263802
 scale = Vector2(1.2198, 1.16248)
 sprite_frames = ExtResource("4_537ft")
@@ -1105,12 +1111,12 @@ scale = Vector2(1.487912, 1.3513597)
 sprite_frames = ExtResource("5_uomke")
 
 [node name="Tree blue 65" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(6624.9995, 822)
+position = Vector2(6637, 818)
 scale = Vector2(1.487912, 1.3513597)
 sprite_frames = ExtResource("5_uomke")
 
 [node name="Tree blue 56" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(6250.3857, 770.3604)
+position = Vector2(6248, 787)
 scale = Vector2(1.487912, 1.3513597)
 sprite_frames = ExtResource("5_uomke")
 
@@ -1146,7 +1152,7 @@ scale = Vector2(1.487912, 1.3513597)
 sprite_frames = ExtResource("5_uomke")
 
 [node name="Tree blue 54" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(8460, 1873)
+position = Vector2(8470, 1818)
 scale = Vector2(1.487912, 1.3513597)
 sprite_frames = ExtResource("5_uomke")
 
@@ -1197,7 +1203,7 @@ scale = Vector2(1.487912, 1.3513597)
 sprite_frames = ExtResource("5_uomke")
 
 [node name="Tree blue 53" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(8084, 1776.0001)
+position = Vector2(8067, 1751)
 scale = Vector2(1.487912, 1.3513597)
 sprite_frames = ExtResource("5_uomke")
 
@@ -1223,7 +1229,7 @@ position = Vector2(5282, 2041.0001)
 scale = Vector2(1.4879122, 1.3513597)
 
 [node name="Tree green94" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(6994, 838)
+position = Vector2(6987.999, 817)
 scale = Vector2(1.4879122, 1.3513597)
 
 [node name="Tree red 29" parent="." instance=ExtResource("3_5qi8a")]
@@ -1496,13 +1502,23 @@ scale = Vector2(1.5157317, 1.271545)
 texture = ExtResource("18_537ft")
 
 [node name="Bush183" type="Sprite2D" parent="."]
-position = Vector2(6667.9995, 1407.0001)
+position = Vector2(6700.999, 1405)
 scale = Vector2(1.5157317, 1.271545)
 texture = ExtResource("18_537ft")
 
 [node name="Bush172" type="Sprite2D" parent="."]
 position = Vector2(8140, 1944)
 scale = Vector2(2.957696, 2.9546359)
+texture = ExtResource("18_537ft")
+
+[node name="Bush186" type="Sprite2D" parent="."]
+position = Vector2(8502.001, 1434.9999)
+scale = Vector2(2.1507223, 2.0866923)
+texture = ExtResource("18_537ft")
+
+[node name="Bush187" type="Sprite2D" parent="."]
+position = Vector2(8777.001, 1315.9999)
+scale = Vector2(2.1507223, 2.0866923)
 texture = ExtResource("18_537ft")
 
 [node name="Bush101" type="Sprite2D" parent="."]
@@ -1662,7 +1678,7 @@ scale = Vector2(1.8036021, 1.5791821)
 texture = ExtResource("20_muoc8")
 
 [node name="Bush184" type="Sprite2D" parent="."]
-position = Vector2(7206.135, 1223.8926)
+position = Vector2(7187, 1246)
 rotation = -0.005142249
 scale = Vector2(2.3344781, 2.323106)
 texture = ExtResource("20_muoc8")
@@ -1758,7 +1774,7 @@ scale = Vector2(1.6525062, 1.4069239)
 texture = ExtResource("20_muoc8")
 
 [node name="Bush160" type="Sprite2D" parent="."]
-position = Vector2(4884, 782.99994)
+position = Vector2(4895, 819.00006)
 rotation = -0.005142249
 scale = Vector2(1.6525062, 1.4069239)
 texture = ExtResource("20_muoc8")
@@ -1839,13 +1855,13 @@ scale = Vector2(1.487912, 1.3513597)
 sprite_frames = ExtResource("5_uomke")
 
 [node name="Tree red 47" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(9333.001, 1119.2928)
+position = Vector2(9339, 1072.9999)
 rotation = 0.13263802
 scale = Vector2(1.2198, 1.16248)
 sprite_frames = ExtResource("4_537ft")
 
 [node name="Tree red 48" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(9160, 1175.293)
+position = Vector2(9159.999, 1149.9999)
 rotation = 0.13263802
 scale = Vector2(1.2198, 1.16248)
 sprite_frames = ExtResource("4_537ft")
@@ -1855,11 +1871,11 @@ position = Vector2(9365.001, 904.29297)
 scale = Vector2(1.4879122, 1.3513597)
 
 [node name="Tree green88" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(9595.002, 997.29297)
+position = Vector2(9597.001, 1055)
 scale = Vector2(0.992103, 1.0577117)
 
 [node name="Tree green89" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(9274, 1407)
+position = Vector2(9277.999, 1378)
 scale = Vector2(1.4879122, 1.3513597)
 
 [node name="Bush180" type="Sprite2D" parent="."]
@@ -1869,7 +1885,7 @@ scale = Vector2(1.5157317, 1.271545)
 texture = ExtResource("18_537ft")
 
 [node name="Bush181" type="Sprite2D" parent="."]
-position = Vector2(9433, 1107.2928)
+position = Vector2(9414, 1148.9999)
 rotation = -0.005142249
 scale = Vector2(1.6525062, 1.4069241)
 texture = ExtResource("20_muoc8")
@@ -2470,7 +2486,7 @@ position = Vector2(6528, 1962)
 texture = ExtResource("25_l8ien")
 
 [node name="Log24" type="Sprite2D" parent="."]
-position = Vector2(6888, 1414)
+position = Vector2(6887, 1402)
 texture = ExtResource("25_l8ien")
 
 [node name="Log2" type="Sprite2D" parent="."]
@@ -2492,15 +2508,15 @@ position = Vector2(9502.999, 1600)
 scale = Vector2(1.4879122, 1.3513597)
 
 [node name="Tree green82" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(8186.999, 1057.0001)
+position = Vector2(8215.999, 1007)
 scale = Vector2(1.4879122, 1.3513597)
 
 [node name="Tree green90" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(8906, 1436)
+position = Vector2(8936, 1403)
 scale = Vector2(1.4879122, 1.3513597)
 
 [node name="Tree green91" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(7981, 1524)
+position = Vector2(8009.9995, 1532)
 scale = Vector2(1.4879122, 1.3513597)
 
 [node name="Tree green83" parent="." instance=ExtResource("3_5qi8a")]
@@ -2518,16 +2534,16 @@ scale = Vector2(1.487912, 1.3513597)
 sprite_frames = ExtResource("5_uomke")
 
 [node name="Tree blue 60" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(9104, 1806)
+position = Vector2(9135, 1554)
 scale = Vector2(1.487912, 1.3513597)
 sprite_frames = ExtResource("5_uomke")
 
 [node name="Tree green84" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(9063, 1946)
+position = Vector2(9084, 1805)
 scale = Vector2(1.2124859, 1.1415286)
 
 [node name="Tree red 42" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(9256, 1717.9998)
+position = Vector2(9266, 1788.9998)
 rotation = 0.13263802
 scale = Vector2(1.2198, 1.16248)
 sprite_frames = ExtResource("4_537ft")
@@ -2674,7 +2690,7 @@ position = Vector2(2008, 1959)
 texture = ExtResource("25_l8ien")
 
 [node name="Tree blue 55" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(8798, 1879.0001)
+position = Vector2(8876, 1806)
 rotation = 0.13263802
 scale = Vector2(1.487912, 1.3513597)
 sprite_frames = ExtResource("5_uomke")
