@@ -1,7 +1,7 @@
 [gd_resource type="SpriteFrames" load_steps=41 format=3 uid="uid://bqikydog4ynkm"]
 
 [ext_resource type="Texture2D" uid="uid://caejv2pi3e7rc" path="res://scenes/quests/story_quests/memoirs_of_caelus/player_components/memoirs_of_caelus_player_attack_01.png" id="1_j4ajo"]
-[ext_resource type="Texture2D" uid="uid://d0hemdplwvgq6" path="res://scenes/quests/story_quests/memoirs_of_caelus/player_components/memoirs_of_caelus_player_attack_02.png" id="2_3rvgc"]
+[ext_resource type="Texture2D" uid="uid://c4l1b3lndhxky" path="res://scenes/quests/story_quests/memoirs_of_caelus/1_stealth/new elements/base madera caminando derecha ataque.png" id="2_j4ajo"]
 [ext_resource type="Texture2D" uid="uid://dcy0kfu1jmnss" path="res://scenes/quests/story_quests/memoirs_of_caelus/player_components/base madera muerte.png" id="3_j4ajo"]
 [ext_resource type="Texture2D" uid="uid://toe1iml54nbq" path="res://scenes/quests/story_quests/memoirs_of_caelus/player_components/base madera quieto final.png" id="4_j4ajo"]
 [ext_resource type="Texture2D" uid="uid://ci0q4vd805awg" path="res://scenes/quests/story_quests/memoirs_of_caelus/player_components/base madera caminando derecha.png" id="5_j4ajo"]
@@ -22,20 +22,20 @@ region = Rect2(384, 0, 192, 192)
 atlas = ExtResource("1_j4ajo")
 region = Rect2(576, 0, 192, 192)
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_gjf71"]
-atlas = ExtResource("2_3rvgc")
+[sub_resource type="AtlasTexture" id="AtlasTexture_xv1cr"]
+atlas = ExtResource("2_j4ajo")
 region = Rect2(0, 0, 192, 192)
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_eyp3i"]
-atlas = ExtResource("2_3rvgc")
+[sub_resource type="AtlasTexture" id="AtlasTexture_t51be"]
+atlas = ExtResource("2_j4ajo")
 region = Rect2(192, 0, 192, 192)
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_nw7ra"]
-atlas = ExtResource("2_3rvgc")
+[sub_resource type="AtlasTexture" id="AtlasTexture_r8d74"]
+atlas = ExtResource("2_j4ajo")
 region = Rect2(384, 0, 192, 192)
 
-[sub_resource type="AtlasTexture" id="AtlasTexture_3yb8r"]
-atlas = ExtResource("2_3rvgc")
+[sub_resource type="AtlasTexture" id="AtlasTexture_uq71k"]
+atlas = ExtResource("2_j4ajo")
 region = Rect2(576, 0, 192, 192)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_j4ajo"]
@@ -167,16 +167,16 @@ animations = [{
 }, {
 "frames": [{
 "duration": 1.0,
-"texture": SubResource("AtlasTexture_gjf71")
+"texture": SubResource("AtlasTexture_xv1cr")
 }, {
 "duration": 1.0,
-"texture": SubResource("AtlasTexture_eyp3i")
+"texture": SubResource("AtlasTexture_t51be")
 }, {
 "duration": 1.0,
-"texture": SubResource("AtlasTexture_nw7ra")
+"texture": SubResource("AtlasTexture_r8d74")
 }, {
 "duration": 1.0,
-"texture": SubResource("AtlasTexture_3yb8r")
+"texture": SubResource("AtlasTexture_uq71k")
 }],
 "loop": true,
 "name": &"attack_02",

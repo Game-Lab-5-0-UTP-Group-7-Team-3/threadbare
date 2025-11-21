@@ -106,7 +106,7 @@ y_sort_enabled = true
 script = ExtResource("1_yhuge")
 
 [node name="CanvasModulate" type="CanvasModulate" parent="."]
-color = Color(0.34505644, 0.6202032, 0.53085583, 1)
+color = Color(0.12813225, 0.4797988, 0.55420524, 1)
 
 [node name="EnemyGuards" type="Node2D" parent="."]
 y_sort_enabled = true
@@ -1517,7 +1517,7 @@ scale = Vector2(2.1507223, 2.0866923)
 texture = ExtResource("18_537ft")
 
 [node name="Bush187" type="Sprite2D" parent="."]
-position = Vector2(8777.001, 1315.9999)
+position = Vector2(8756.001, 1324)
 scale = Vector2(2.1507223, 2.0866923)
 texture = ExtResource("18_537ft")
 
@@ -1844,7 +1844,7 @@ scale = Vector2(1.6525062, 1.4069235)
 texture = ExtResource("20_muoc8")
 
 [node name="Tree red 46" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(9161, 1330.9998)
+position = Vector2(9056, 1256)
 rotation = 0.13263802
 scale = Vector2(1.2198, 1.16248)
 sprite_frames = ExtResource("4_537ft")
@@ -1861,7 +1861,7 @@ scale = Vector2(1.2198, 1.16248)
 sprite_frames = ExtResource("4_537ft")
 
 [node name="Tree red 48" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(9159.999, 1149.9999)
+position = Vector2(9149, 1109.9999)
 rotation = 0.13263802
 scale = Vector2(1.2198, 1.16248)
 sprite_frames = ExtResource("4_537ft")
@@ -1875,7 +1875,7 @@ position = Vector2(9597.001, 1055)
 scale = Vector2(0.992103, 1.0577117)
 
 [node name="Tree green89" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(9277.999, 1378)
+position = Vector2(9225.999, 1320)
 scale = Vector2(1.4879122, 1.3513597)
 
 [node name="Bush180" type="Sprite2D" parent="."]
@@ -2512,7 +2512,7 @@ position = Vector2(8215.999, 1007)
 scale = Vector2(1.4879122, 1.3513597)
 
 [node name="Tree green90" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(8936, 1403)
+position = Vector2(8926.999, 1364)
 scale = Vector2(1.4879122, 1.3513597)
 
 [node name="Tree green91" parent="." instance=ExtResource("3_5qi8a")]
@@ -2534,7 +2534,7 @@ scale = Vector2(1.487912, 1.3513597)
 sprite_frames = ExtResource("5_uomke")
 
 [node name="Tree blue 60" parent="." instance=ExtResource("3_5qi8a")]
-position = Vector2(9135, 1554)
+position = Vector2(9273, 1583)
 scale = Vector2(1.487912, 1.3513597)
 sprite_frames = ExtResource("5_uomke")
 
