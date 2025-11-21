@@ -2,10 +2,14 @@
 # SPDX-License-Identifier: MPL-2.0
 
 ~ start
-Something in this scene will throw projectiles at you. The goal is to redirect them toward the targets.
-Explore the Scene Tree to add, change, or remove elements.
+Los fantasmas del recuerdo despiertan cuando me acerco. No se mueven, no hablan... 
+pero lanzan fragmentos del pasado como si quisieran probar mi determinación.
+Debo desviar sus proyectiles y guiarlos hacia los jarrones que esperan ser llenados.
+Solo entonces recuperaré la última memoria que me pertenece.
 => END
 
 ~ well_done
-You can add text here after the player takes the collectible. Be creative with this one!
+El eco final del recuerdo regresa a mí, tibio como una verdad que había olvidado.
+Los fantasmas se desvanecen, satisfechos.  
+La duda, por fin, guarda silencio.
 => END
